@@ -5,19 +5,7 @@
 ![No Build](https://img.shields.io/badge/Build-None-64748B?style=flat)
 ![In‑Memory](https://img.shields.io/badge/Storage-In_Memory-EF4444?style=flat)
 
-> **부트/톰캣 없이** 브라우저만으로 동작하는 가벼운 게시판 데모입니다. 데이터는 메모리에만 저장되며 새로고침 시 초기화됩니다.
-
----
-
-## 컬러 팔레트 (README 표시용)
-
-![Accent](https://img.shields.io/badge/Accent-2F6DF6?style=flat\&labelColor=2F6DF6\&color=2F6DF6)
-![Accent‑2](https://img.shields.io/badge/Accent%E2%80%912-22C55E?style=flat\&labelColor=22C55E\&color=22C55E)
-![Danger](https://img.shields.io/badge/Danger-EF4444?style=flat\&labelColor=EF4444\&color=EF4444)
-![Text](https://img.shields.io/badge/Text-1B1C1F?style=flat\&labelColor=1B1C1F\&color=1B1C1F)
-![Border](https://img.shields.io/badge/Border-E5E7EB?style=flat\&labelColor=E5E7EB\&color=E5E7EB)
-
-> README는 사용자 CSS가 불가하므로 색상은 **배지**로 표현합니다. 실제 페이지 색상은 `index.html`의 CSS 변수(`:root`)가 적용됩니다.
+> **부트/톰캣 없이** 브라우저만으로 동작하는 가벼운 게시판 데모입니다. 데이터는 메모리에만 저장되며 새로고침 시 초기화됩니다
 
 ---
 
